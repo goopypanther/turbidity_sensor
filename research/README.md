@@ -63,4 +63,7 @@ Enclosures & Waterproofing
 Ideas:
 
  * Inductive charge/data with fully encapsulated modules
- * Modules in watertight
+ * Modules in individual watertight enclosures
+ * Daisy-chained modules for simplicity
+ * Enclosureless modules encapsulated in epoxy
+  * Rubberized cable/pcb interface to prevent leakage around cables
