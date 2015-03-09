@@ -8,14 +8,14 @@ The sensor string will be suspended between a weight and small buoy which will c
 Research
 --------
 
-This folder contains information and design specs related to the sensor packages and their installation.
+[This folder](https://github.com/JeremyRuhland/turbidity_sensor/tree/master/research) contains information and design specs related to the sensor packages and their installation.
 
 Prototypes
 ----------
 
-This folder contains schematics and code used for prototype systems intented to guide the design of the sensors and their housings.
+[This folder](https://github.com/JeremyRuhland/turbidity_sensor/tree/master/prototypes) contains schematics and code used for prototype systems intented to guide the design of the sensors and their housings.
 
 Designs
 -------
 
-This folder contains possible designs for the production sensor strings.
+[This folder](https://github.com/JeremyRuhland/turbidity_sensor/tree/master/designs) contains possible designs for the production sensor strings.
