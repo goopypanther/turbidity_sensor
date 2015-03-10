@@ -5,6 +5,8 @@ Hackerbot labs would like to place a number of water turbidity sensor packages i
 
 The sensor string will be suspended between a weight and small buoy which will contain a battery, solar panels and communication antenna. The installations will be close to shore and will probably use local wifi or a LTE cellular data connection.
 
+![image of system diagram](https://raw.githubusercontent.com/JeremyRuhland/turbidity_sensor/master/diagrams/system_diagram.png)
+
 Research
 --------
 
